@@ -21,7 +21,7 @@
 *(Note: To add a video, upload an MP4 to YouTube or Loom as "Unlisted", and replace the `src` link below!)*
 
 <div align="center">
-  <video src="https://www.youtube.com/embed/dQw4w9WgXcQ" width="640" height="360" controls></video>
+  <video src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtu.be/IzRa2TLypRI?si=VQgODai3O4OwuQs_)" width="640" height="360" controls></video>
   <br><i>Alternatively: Convert a short screen-recording to a .GIF and use: <code>![Demo](demo.gif)</code></i>
 </div>
 
