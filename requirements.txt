@@ -1,0 +1,29 @@
+# Core Audio Processing
+numpy
+scipy
+librosa
+soundfile
+sounddevice
+pydub
+
+# Transformers & NLP
+transformers
+torch
+tensorflow
+tensorflow-hub
+openai-whisper
+faster-whisper
+
+# Data Processing & ML
+pandas
+scikit-learn
+joblib
+datasets
+
+# Utilities
+tqdm
+matplotlib
+seaborn
+
+# Google Colab (optional - for Colab-specific features)
+# google-colab
