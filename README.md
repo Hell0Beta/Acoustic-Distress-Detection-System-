@@ -15,19 +15,8 @@
 </div>
 
 ---
-
-### 🎥 Demo / How It Works
-
-*(Note: To add a video, upload an MP4 to YouTube or Loom as "Unlisted", and replace the `src` link below!)*
-
-<div align="center">
-  <video src="[https://www.youtube.com/embed/dQw4w9WgXcQ](https://youtu.be/IzRa2TLypRI?si=VQgODai3O4OwuQs_)" width="640" height="360" controls></video>
-  <br><i>Alternatively: Convert a short screen-recording to a .GIF and use: <code>![Demo](demo.gif)</code></i>
-</div>
-
----
-
-### 🧠 Architecture Overview
+## How it works?
+ [![How It Works](https://img.youtube.com/vi/IzRa2TLypRI/0.jpg)](https://www.youtube.com/watch?v=IzRa2TLypRI)
 
 The system does not rely on a single AI model. Instead, it uses a "Committee of Experts" approach. Audio is chunked into 2-second segments and pushed through three parallel deep learning models simultaneously using Python Threading.
 
